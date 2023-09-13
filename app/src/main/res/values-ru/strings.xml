@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Голосовой помощник</string>
+    <string name="hint_name">Задайте вопрос</string>
+    <string name="button_text">Отправить</string>
+</resources>

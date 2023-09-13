@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="Indent_H">0dp</dimen>
+    <dimen name="Indent_L">8dp</dimen>
+    <dimen name="Indent_T">8dp</dimen>
+    <dimen name="Indent_E">8dp</dimen>
+    <dimen name="Size">20sp</dimen>
+    <dimen name="LinearIndent_S">8dp</dimen>
+    <dimen name="LinearIndent_E">8dp</dimen>
+    <dimen name="LinearIndent_B">8dp</dimen>
+</resources>
